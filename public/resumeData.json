@@ -1,0 +1,175 @@
+{
+  "main": {
+    "name": "Muhammad Niko Andrean",
+    "description": "I am a programmer",
+    "image": "profilepic.jpg",
+    "project": "https://github.com/NikoAndrean",
+    "github": "https://github.com/NikoAndrean",
+    "bio": "Ini adalah section biografi aku",
+    "contactmessage": "Hello, here I am",
+    "email": "nikoandrean2580@gmail.com",
+    "phone": "+62 81575013692",
+    "address": {
+      "street": "Kp. Gendingan Baru",
+      "city": "Demak",
+      "state": "Central Java",
+      "zip": "59511"
+    },
+    "website": "https://github.com/NikoAndrean",
+    "resumedownload": "https://github.com/NikoAndrean",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://github.com/NikoAndrean",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/muhammad-niko-andrean-575117251/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/niko_andrean_",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/NikoAndrean",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Universitas Dian Nuswantoro",
+        "degree": "Bachelor degree of Computer Science",
+        "graduated": "June 2024",
+        "description": ""
+      },
+      {
+        "school": "SMK N 2 Demak",
+        "degree": "Computer and Network Engineering",
+        "graduated": "May 2020",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "CV. Cific",
+        "title": "Software Engineer",
+        "years": "April 2018 - February 2019",
+        "description": "Creating a website and maintenance"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Java Script",
+        "level": "85%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "88%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "PHP",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My travel blog for my post-university",
+        "image": "01.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "01.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
